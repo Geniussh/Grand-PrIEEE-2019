@@ -1,5 +1,4 @@
-# Grand-PrIEEE-2019
-UCSD Grand PrIEEE (Line Following Robot) Competition 2019, Team 5
+# UCSD Grand PrIEEE (Line Following Robot) Competition 2019, Team 5
 
 The full documentation can be found at [Team 5 Documentation](https://drive.google.com/file/d/1QUnVXjLTIUAFoJQuONkuO3ktRH37gFut/view)
 
